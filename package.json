@@ -1,0 +1,20 @@
+{
+  "name": "cypress-introduction-2",
+  "version": "1.0.0",
+  "description": "My first automation project using cypress.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "testShop": "npx cypress open --test cypress/ete/second-test.cy.js"
+  },
+  "keywords": [
+    "QA",
+    "Automation",
+    "Cypress"
+  ],
+  "author": "Jaime Contreras",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.15.1"
+  }
+}

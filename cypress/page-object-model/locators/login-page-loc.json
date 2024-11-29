@@ -1,0 +1,6 @@
+{
+    "usernameInp": "#username",
+    "passwordInp": "#password",
+    "signInBtn": "#signInBtn",
+    "erroMsg": ".alert.alert-danger"
+}
